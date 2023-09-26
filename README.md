@@ -27,16 +27,20 @@ como fonte de imagens para os personagens, e imagens de fundo.</pre>
 :heavy_check_mark:O Objetivo do 1 º Jogo e encontrar o Capitão Monkey D Luffy<br>
 O jogador se movimenta utilizando as setas do teclado :arrow_up::arrow_down::arrow_right::arrow_left:<br>
 :heavy_check_mark:O do 2º Jogo é comer o maxímo de <strong>akuma no mi</strong> (fruta que dá poder), caso o jogador deixe escapar alguma fruta sua quantidade de vidas diminui se a quantidade de vidas chegar a 0 o jogador perde. 
-<h2>Telas do Projeto</h2>
+<h2>Prints do Projeto</h2>
+<p><strong>Tela de Menu</strong></p>
 <div align="center">
 <img src="IMG/MENU.png" width="300" heigth="300">
 </div>
+<p><strong>Tela Minigame Procurando  Luffy</strong></p>
 <div align="center">
 <img src="IMG/JOGO1.png"width="300" heigth="300">
 </div>
+<p><strong>Tela Minigame Coma as Akumas</strong></p>
 <div align="center">
 <img src="IMG/JOGO 2.png"width="300" heigth="300">
 </div>
+<p><strong>Tela Você Perdeu</strong></p>
 <div align="center">
 <img src="IMG/FINAL.png"width="300" heigth="300">
 </div>
