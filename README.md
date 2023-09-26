@@ -25,8 +25,8 @@ inspirações, onde os usuários podem compartilhar e gerenciar imagens temátic
 <pre> Durante a construção do Projeto a biblioteca P5.js foi utilizada em seu desenvolvimento
 é o pinterest foi usado como fonte de imagens para os personagens, e imagens de fundo.</pre>
 <h2>:dart:Objetivo do Jogo</h2>
-<p>A aplicação e divida em dois Jogos</p>
-<pre>:heavy_check_mark:O Objetivo do 1 º Jogo e encontrar o Capitão Monkey D Luffy<br>
+<pre>A aplicação e divida em dois Jogos
+:heavy_check_mark:O Objetivo do 1 º Jogo e encontrar o Capitão Monkey D Luffy<br>
 O jogador se movimenta utilizando as setas do teclado :arrow_up::arrow_down::arrow_right::arrow_left:<br>
 :heavy_check_mark:O do 2º Jogo é comer o maxímo de <strong>akuma no mi</strong> (fruta que dá poder), 
 caso o jogador deixe escapar alguma fruta sua quantidade de vidas diminui se a quantidade de vidas chegar a 0 o jogador perde.</pre> 
