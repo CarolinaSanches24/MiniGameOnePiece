@@ -29,8 +29,16 @@ O jogador se movimenta utilizando as setas do teclado :arrow_up::arrow_down::arr
 :heavy_check_mark:O do 2º Jogo é comer o maxímo de <strong>akuma no mi</strong> (fruta que dá poder), caso o jogador deixe escapar alguma fruta sua quantidade de vidas diminui se a quantidade de vidas chegar a 0 o jogador perde. 
 <h2>Telas do Projeto</h2>
 <div align="center">
-<img src="IMG/MENU.png" width="200" heigth="200"><img src="IMG/JOGO1.png"width="200" heigth="200">
-<img src="IMG/JOGO 2.png"width="200" heigth="200"><img src="IMG/FINAL.png"width="200" heigth="200">
+<img src="IMG/MENU.png" width="300" heigth="300">
+</div>
+<div align="center">
+<img src="IMG/JOGO1.png"width="300" heigth="300">
+</div>
+<div align="center">
+<img src="IMG/JOGO 2.png"width="300" heigth="300">
+</div>
+<div align="center">
+<img src="IMG/FINAL.png"width="300" heigth="300">
 </div>
   
 <h2>:video_game:Execução</h2>
