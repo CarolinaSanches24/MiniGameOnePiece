@@ -51,3 +51,5 @@ caso o jogador deixe escapar alguma fruta sua quantidade de vidas diminui se a q
 <h2>:video_game:Execução</h2>
 Para executar o projeto voce pode Acessar este link: 
 https://editor.p5js.org/carolmosilva34/full/xMZHZFsI2
+<h2>✒️ Autor</h2>
+<strong>Carol Sanches</strong>
